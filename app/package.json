@@ -1,0 +1,13 @@
+{
+  "name": "george",
+  "version": "0.0.0",
+  "description": "Dumb app",
+  "main": "./dist/main.js",
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "vue": "^2.1.10",
+    "vue-electron": "^1.0.6"
+  },
+  "devDependencies": {},
+  "author": "Marcus Crane <marcus@thingsima.de>"
+}
