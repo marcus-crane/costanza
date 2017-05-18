@@ -4,6 +4,10 @@
 
 A dumb app I made to play around with Vue Electron
 
+# What does it look like
+
+You can see a preview [here](https://www.youtube.com/watch?v=2cDECYSoFKU)
+
 # How do I use it?
 
 Uhh, I mean, if you want, you can install it, run `npm install` and then
